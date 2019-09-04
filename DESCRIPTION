@@ -1,0 +1,11 @@
+Package: queryMedShiny
+Type: Package
+Title: Interactive methods for easy visualization of queryMed outputs
+Version: 0.01
+Date: 2019-07-31
+Author: Samuel Tessier, Nolwenn Le Meur
+Maintainer: Samuel Tessier <samuel.tessier19@gmail.com>
+              Nolwenn Le Meur <Nolwenn.LeMeur-Rouillard@ehesp.fr>
+Depends: queryMed, shiny, shinyWidgets, shinydashboard, shinyjs, ggplot2, plotly
+Description: Perform drug-drug interaction vizualisation with an input menu and different graph types 
+              thanks to 'queryMed' plot functions and a Shiny Application
